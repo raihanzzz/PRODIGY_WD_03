@@ -21,7 +21,6 @@ This project transforms the classic game into a **dynamic web experience** with 
 
 ## 📂 Project Structure
 ```
-📁 Tic-Tac-Toe-Pro  
 │── index.html  
 │── style.css  
 │── script.js  
